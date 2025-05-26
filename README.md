@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zack</h1>
 <h3 align="center">Software Developer currently focused on FiveM & Web Development</h3>
 
-- 🔭 I’m currently working on [ThugLife RP Project](https://discord.gg/tlcfw), [Static Development](https://static-development.tebex.io/), [CodeCraft Development](https://github.com/zackSoftware)
+- 🔭 I’m currently working on [Static Development](https://static-development.tebex.io/), [CodeCraft Development](https://github.com/zackSoftware)
 
 - 📫 How to reach me **zackfr19@icloud.com**
 
